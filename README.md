@@ -3,7 +3,7 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - 📍 I live in Pune, India. <br>
-- I am currently working with technologies based on Javascript. - - Technologies such as ReactJS, NextJS, NodeJS. <br>
+- I am currently working with technologies based on Javascript. Technologies such as ReactJS, NextJS, NodeJS. <br>
 - My Tech Stack: NextJS, TypeScript, TailwindCSS, Figma. <br>
 Languages I know: JavaScript, Java, Python.
 
